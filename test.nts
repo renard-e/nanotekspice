@@ -1,0 +1,11 @@
+.chipsets:
+
+true		lol
+false		lol1
+output		s1
+output		s2
+
+.links:
+
+lol:1		s1:1
+lol1:1		s2:1
